@@ -2,4 +2,6 @@
 
 data source: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SN5DAP
 
-<img src="image/page1.jpg" alt="isolated" width="700"/>
+<img src="image/page1.png" alt="isolated" width="1500"/>
+<img src="image/page2.png" alt="isolated" width="1500"/>
+<img src="image/page3.png" alt="isolated" width="1500"/>
